@@ -1,0 +1,14 @@
+{
+    "blog" :[
+         {"id":1,"name":"anaeto","content":"sport","sex":"male"},
+         {"id":2,"name":"bishop","content":"politics","sex":"male"},
+         {"id":3,"name":"livinus","content":"fashinon","sex":"male"},
+         {"id":4,"name":" callister","content":"romance","sex":"male"}
+ 
+ 
+ 
+ 
+     ]
+ 
+ 
+ }

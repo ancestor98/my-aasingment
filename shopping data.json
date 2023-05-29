@@ -1,0 +1,14 @@
+{
+    "shopping" :[
+         {"id":1,"name":"anaeto","content":"toy","sex":"male"},
+         {"id":2,"name":"bishop","content":"gift","sex":"male"},
+         {"id":3,"name":"livinus","content":"cloths","sex":"male"},
+         {"id":4,"name":" callister","content":"bags","sex":"male"}
+ 
+ 
+ 
+    
+     ]
+ 
+ 
+ }

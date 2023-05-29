@@ -1,0 +1,14 @@
+{
+    "contact" :[
+         {"id":1,"name":"anaeto","number":"sport","sex":"male"},
+         {"id":2,"name":"bishop","number":"politics","sex":"male"},
+         {"id":3,"name":"livinus","number":"fashinon","sex":"male"},
+         {"id":4,"name":" callister","number":"romance","sex":"male"}
+ 
+ 
+ 
+ 
+     ]
+ 
+ 
+ }

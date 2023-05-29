@@ -1,0 +1,16 @@
+{
+    "paul" :[
+         {"id":1,"name":"anaeto","age":15,"sex":"male","qualification":"bsc"},
+         {"id":2,"name":"bishop","age":26,"sex":"male","qualification":"hnd"},
+         {"id":3,"name":"livinus","age":56,"sex":"male","qualification":"nce"},
+         {"id":4,"name":" callister","age":48,"sex":"male","qualification":"ssce"}
+ 
+ 
+ 
+ 
+     ]
+ 
+ 
+ }
+
+
